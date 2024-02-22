@@ -1,0 +1,44 @@
+
+html  {
+  background-color: black;
+  font-family:monospace;
+}
+.deck1 {
+  float:right;
+  max-height: 75px;
+}
+.deck2  {
+  float:left;
+  max-height: 75px;
+}
+.content3  {
+  color:lime;
+  font-size:12px;
+
+}
+.content1  {
+  color:lime;
+  font-size:16px;
+  
+}
+.content2  {
+  color:lime;
+  font-size: 30px;
+  text-align: center;
+}
+.link {
+  color:lime;
+  text-align: center;
+  font-size: 78px;
+  padding-right: 32px;
+
+}
+
+.img {
+  border-radius: 1000px;
+  width: 600px
+}
+ul {
+  color:lime;
+  font-size:12px;
+}
