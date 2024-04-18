@@ -1,5 +1,4 @@
-# 00ver-Website-Code
-### Open sourcing the code for my website in development. Free to use and fork. 
+### Open sourcing the code for my website in development. 
 ##Art and Images used are not public domain.  Collaboration of Patterns © 2023 by Junior Sanchez is licensed under CC BY-NC-SA 4.0 
 
 Current index.html code iteration, incomplete:
